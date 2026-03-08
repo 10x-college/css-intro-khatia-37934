@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AK-am-zN)
+
 ### დავალება: "Introduction to CSS" - დიზაინის იმპლემენტაცია
 
 **აღწერა:**
@@ -36,8 +38,8 @@
 
 #### ✅ მიღების კრიტერიუმები (Acceptance Criteria)
 
--   [ ] ვიზუალი შეესაბამება Figma-ს დიზაინს.
--   [ ] HTML სტრუქტურა სემანტიკურად სწორია.
--   [ ] CSS სტილიზაცია ხდება კლასებით.
--   [ ] არ გვხვდება დუბლირებული ID-ები.
--   [ ] `README.md` ფაილში ჩანს ნამუშევრის სქრინშოთი.
+- [ ] ვიზუალი შეესაბამება Figma-ს დიზაინს.
+- [ ] HTML სტრუქტურა სემანტიკურად სწორია.
+- [ ] CSS სტილიზაცია ხდება კლასებით.
+- [ ] არ გვხვდება დუბლირებული ID-ები.
+- [ ] `README.md` ფაილში ჩანს ნამუშევრის სქრინშოთი.
